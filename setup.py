@@ -5,6 +5,7 @@ setup(name="systeminfotest",
       description="Basic system information for COMP30830", 
       url="",
       authors="Colin Beagan",
+      author_email="colin.beagan@ucdconnect.ie", 
       license="GPL3", 
       packages=['systeminfotest'],
       entry_points={

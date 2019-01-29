@@ -1,0 +1,7 @@
+systeminfotest/__init__.py
+systeminfotest/main.py
+systeminfotest.egg-info/PKG-INFO
+systeminfotest.egg-info/SOURCES.txt
+systeminfotest.egg-info/dependency_links.txt
+systeminfotest.egg-info/entry_points.txt
+systeminfotest.egg-info/top_level.txt
